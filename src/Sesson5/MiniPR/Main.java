@@ -80,6 +80,7 @@ public class Main {
     private static void orderMenu() {
         System.out.println("--- Order Management ---");
         System.out.println("1. Create order");
+        
         System.out.println("2. Add item to order");
         System.out.println("3. Show orders");
         System.out.print("Choice: ");
